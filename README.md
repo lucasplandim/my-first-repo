@@ -1,30 +1,25 @@
-# This is a large heading
+# Lucas Landim
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Curitiba, in the state of Paraná, in Brazil.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Dom Casmurro* by Machado de Assis
+- *What Does This Button Do?* by Bruce Dickinson
+- *Travelling Music* by Neil Peart
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Green Sushi in São Paulo.
+2. 7Eleven in Oslo.
+3. Gemma in New York City.
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is [on Facebook](https://web.facebook.com/lucas.minerim).
